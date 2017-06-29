@@ -1,0 +1,7 @@
+
+float n;
+do
+{
+    n = get_float();
+}
+while (n is invalid);
