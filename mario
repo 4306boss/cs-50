@@ -1,0 +1,14 @@
+int n; 
+do
+{
+    n = get_int();
+}
+while ( 0 - 23 is vaild)
+for (int i = 0; i < height; i++)
+{
+  //print spaces for left pyramid
+  //print hashes for left pyramid
+  //print gap
+  // print hashes for right pyramid
+  // print new line
+}
